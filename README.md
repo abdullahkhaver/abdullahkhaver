@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [itkhaver.com](itkhaver.com)
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **Web Dev, Python and Cyber Security**
 
 - 📫 How to reach me **devnull@itkhaver.com**
 

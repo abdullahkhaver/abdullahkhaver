@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahkhaver" alt="abdullahkhaver" /></a> </p>
 
-- 🔭 I’m currently working on [DevChat](https://github.com/itkhaver/devchat)
+- 🔭 I’m currently working on [DevChat](https://github.com/abdullahkhaver/devchat)
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 🤝 I’m looking for help with [Kernel Net](https://github.com/itkhaver/kernelnet)
+- 🤝 I’m looking for help with [Kernel Net](https://github.com/abdullahkhaver/kernelnet)
 
 - 👨‍💻 All of my projects are available at [itkhaver.com](itkhaver.com)
 
 - 💬 Ask me about **Web Dev, Python and Cyber Security**
 
-- 📫 How to reach me **devnull@itkhaver.com**
+- 📫 How to reach me **muhammadabdullahkhaver@gmail.com**
 
 - ⚡ Fun fact **I am also passionate in Cyber Security**
 

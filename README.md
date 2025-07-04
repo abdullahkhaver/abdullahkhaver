@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [abdullahkhaver.github.io/portfolio/](abdullahkhaver.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [abdullahkhaver.github.io/portfolio/](https://www.abdullahkhaver.github.io/portfolio/)
 
 - 💬 Ask me about **Web Dev, Python and Cyber Security**
 

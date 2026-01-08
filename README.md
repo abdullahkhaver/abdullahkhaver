@@ -1,63 +1,106 @@
-<h1 align="center">Abdullah Khaver</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Specialist | From Pakistan</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Abdullah+Khaver;Full-Stack+Developer;Cybersecurity+Specialist;Building+Secure+Systems" alt="Typing Animation" />
+</h1>
+
+<h3 align="center">🛡️ Building Digital Fortresses | 🔐 Offensive Security | 🚀 Modern Web Apps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahkhaver&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahkhaver" />
+  <img src="https://komarev.com/ghpvc/?username=abdullahkhaver&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/From-Pakistan-006600?style=for-the-badge&logo=github" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Building%20Securely-8b5cf6?style=for-the-badge" alt="Status" />
 </p>
 
----
-
-##  About Me
-
-I am a **Cyber Security Engineer** specializing in **Red Teaming** and **Penetration Testing**, who also builds **secure modern applications** as a **Full-Stack Developer**.
-
--  **Learning Daily:** MERN Stack | Advanced Cybersecurity
--  **Portfolio:** [Visit My Website](https://abdullahkhaver.github.io/portfolio/)
--  **Reach Me:** muhammadabdullahkhaver@gmail.com
 
 ---
 
-##  Tech Stack & Expertise
+## 🧠 **About Me**
 
-A blend of offensive security and modern software engineering skills.
-
-| Category | Skills |
-| :--- | :--- |
-| **Cybersecurity** | Red Teaming, Pen Testing, Web & API Security, OWASP Top 10 |
-| **Full-Stack Dev** | JavaScript/TypeScript, React/React Native, Node.js/Express, MERN Stack |
-| **Languages & Tools** | Python, Linux, Rust, MongoDB, MySQL, Git |
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40"/>
-</p>
+```javascript
+const Abdullah = {
+  pronouns: "he" | "him",
+  role: ["Red Teamer", "Penetration Tester", "Full-Stack Developer"],
+  focus: "Building secure applications by day, breaking them responsibly by night",
+  philosophy: "Security isn't a feature—it's the foundation",
+  currentLearning: ["Advanced Red Teaming", "Cloud Security", "Rust for Security"],
+  portfolio: "https://abdullahkhaver.github.io/portfolio/",
+  contact: "muhammadabdullahkhaver@gmail.com"
+};
+```
 
 ---
 
-##  GitHub Stats
+## ⚡ **Tech Arsenal**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahkhaver&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%" alt="Abdullah Khaver's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkhaver&layout=compact&theme=radical&hide_border=true" width="47%" alt="Top Languages"/>
-</p>
+### 🛡️ **Cybersecurity & Offensive Security**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 💻 **Full-Stack Development**
+![MERN Stack](https://img.shields.io/badge/MERN-00D8FF?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 **Languages & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,docker,linux,bash,aws,tailwind,redux,figma,vscode" />
+</div>
 
 ---
 
-##  Connect
+## 📈 **Coding Activity**
 
-<p align="left">
+<!--START_SECTION:waka-->
+```text
+🚧 Wakatime stats will appear here if connected
+📊 Weekly development breakdown coming soon!
+```
+<!--END_SECTION:waka-->
+
+---
+
+
+## 📌 **Featured Projects**
+
+| Project                                                              | Description                                                                                                                                 | Tech Stack                         |
+| :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------- |
+| **[Abuse Engine](https://github.com/abdullahkhaver/abuse-engine)**   | A production-ready authentication system implementing security best practices, including JWT and rate limiting, for secure user management. | Node.js, JWT, Rate Limiting        |
+| **[WolfPlayer](https://github.com/abdullahkhaver/wolfplayer)**       | A personal desktop music player with a local database, built for performance and cross-platform support.                                    | Rust, Python, SQLite               |
+| **[Port Sniffer](https://github.com/abdullahkhaver/port-sniffer)**   | A lightweight port scanning tool built in Rust for efficient network reconnaissance and analysis.                                           | Rust                               |
+| **[Portfolio Website](https://github.com/abdullahkhaver/portfolio)** | A modern, responsive portfolio showcasing projects and cybersecurity skills, built with smooth animations and a secure foundation.          | React, Tailwind CSS, Framer Motion |
+
+---
+
+
+## 🤝 **Let's Connect**
+
+<div align="center">
   <a href="https://linkedin.com/in/muhammadabdullahkhaver" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  <a href="mailto:muhammadabdullahkhaver@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://instagram.com/abdullahkhaver" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="instagram" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
+  <a href="https://abdullahkhaver.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-<h4 align="center">Let's build secure systems together!</h4>
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Secure+Together!;Security+First%2C+Always.;From+Code+to+Cybersecurity." alt="Connect Message" />
+</h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0ea5e9&height=120&section=footer&animation=fadeIn" />
+</div>
+
+

@@ -63,19 +63,6 @@ const Abdullah = {
 
 ---
 
-
-## 📌 **Featured Projects**
-
-| Project                                                              | Description                                                                                                                                 | Tech Stack                         |
-| :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------- |
-| **[Abuse Engine](https://github.com/abdullahkhaver/abuse-engine)**   | A production-ready authentication system implementing security best practices, including JWT and rate limiting, for secure user management. | Node.js, JWT, Rate Limiting        |
-| **[WolfPlayer](https://github.com/abdullahkhaver/wolfplayer)**       | A personal desktop music player with a local database, built for performance and cross-platform support.                                    | Rust, Python, SQLite               |
-| **[Port Sniffer](https://github.com/abdullahkhaver/port-sniffer)**   | A lightweight port scanning tool built in Rust for efficient network reconnaissance and analysis.                                           | Rust                               |
-| **[Portfolio Website](https://github.com/abdullahkhaver/portfolio)** | A modern, responsive portfolio showcasing projects and cybersecurity skills, built with smooth animations and a secure foundation.          | React, Tailwind CSS, Framer Motion |
-
----
-
-
 ## 🤝 **Let's Connect**
 
 <div align="center">
